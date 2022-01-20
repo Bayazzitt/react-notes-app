@@ -1,4 +1,6 @@
-# KODU ÇALIŞTIRMAK İÇİN
+# React Notes App
+
+## KODU ÇALIŞTIRMAK İÇİN
 
 ```
 npm install
