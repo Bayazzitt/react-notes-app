@@ -1,12 +1,12 @@
 # → React İle Not Tutma Uygulaması ←
 
-> ### Proje Link 📎 → 
+> ### Proje Link 📎 → https://silly-banach-c9bf37.netlify.app
 
 <br>
 
 >↓ Uygulama İçi Görsel ↓ 🖼
 
-
+![Görsel](src/img/görsel.png)
 
 <br>
 
